@@ -116,7 +116,7 @@ const API_SITES = {
     },
     testSource: {
         api: 'https://api.souavzy.vip/api.php/provide/vod',
-        name: '测试源',
+        name: 'souav',
         adult: true
     },
     // 下面是一些成人内容的API源，默认隐藏，使用本项目浏览黄色内容违背项目初衷
@@ -140,11 +140,6 @@ const API_SITES = {
     bwzy: {
         api: 'https://api.bwzym3u8.com',
         name: '百万资源',
-        adult: true
-    },
-    souav: {
-        api: 'https://api.souavzy.vip',
-        name: 'souav资源',
         adult: true
     },
     r155: {
