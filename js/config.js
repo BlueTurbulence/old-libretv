@@ -49,9 +49,9 @@ const API_SITES = {
         detail: 'http://ffzy5.tv', 
     },
     heimuer: {
-        api: 'https://json.heimuer.xyz/api.php/provide/vod',
-        name: '黑木耳',
-        detail: 'https://heimuer.tv', 
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: '茅台',
+        detail: 'https://mtzy0.com/', 
     },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
