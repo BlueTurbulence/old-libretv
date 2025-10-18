@@ -161,6 +161,16 @@ const API_SITES = {
         name: '豆豆',
         adult: true
     },
+    xing: {
+        api: 'https://xzybb2.com/api.php/provide/vod',
+        name: '幸',
+        adult: true
+    },
+    xingba: {
+        api: 'https://xingba222.com/api.php/provide/vod',
+        name: '杏吧',
+        adult: true    
+    },
     
     // 下面是资源失效率高的API源，不建议使用
     subo: {
